@@ -24,9 +24,7 @@ print("User list is ",indianteam)
 #indianteam = {}
 #indianteam[playername] = 'role'
 #for i in indianteam:
- #   print(i
-
-    #item = str(input())
+ #   print( item = str(input())
     #rolename.append(itemm)
 #print("role list is ",rolename)
 #rolename = {"0":"ballor","1":"batsman","2":"wicket keeper", "3":"captain'}:
